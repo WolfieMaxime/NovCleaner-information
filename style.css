@@ -41,3 +41,6 @@ h1{
 #NovCleaner:active{
     background-color: hsl(184, 100%, 50%);
 }
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+}
