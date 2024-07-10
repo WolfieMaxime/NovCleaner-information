@@ -9,6 +9,7 @@ h1{
     border:none;
     border-radius: 12px;
     font-size: 1.5em;
+    cursor: pointer;
 }
 #support1:hover{
     background-color: hsl(180, 54%, 45%);   
@@ -16,24 +17,50 @@ h1{
 #support1:active{
     background-color: hsl(184, 100%, 50%);
 }
-#vscode{
-    background-color: hsl(184, 100%, 64%);
-    border:none;
-    border-radius: 12px;
-    font-size: 1.5em;
-}
-#vscode:hover{
-    background-color: hsl(180, 54%, 45%);   
-}
-#vscode:active{
-    background-color: hsl(184, 100%, 50%);
-}
+
 #NovCleaner{
     background-color: hsl(184, 100%, 64%);
     border:none;
     border-radius: 12px;
     font-size: 1.5em;
     margin-top: 10px;
+    cursor: pointer;
+}
+#NovCleaner:hover{
+    background-color: hsl(180, 54%, 45%);
+}
+#NovCleaner:active{
+    background-color: hsl(184, 100%, 50%);
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+}p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#support1{
+    background-color: hsl(184, 100%, 64%);
+    border:none;
+    border-radius: 12px;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+#support1:hover{
+    background-color: hsl(180, 54%, 45%);   
+}
+#support1:active{
+    background-color: hsl(184, 100%, 50%);
+}
+
+#NovCleaner{
+    background-color: hsl(184, 100%, 64%);
+    border:none;
+    border-radius: 12px;
+    font-size: 1.5em;
+    margin-top: 10px;
+    cursor: pointer;
 }
 #NovCleaner:hover{
     background-color: hsl(180, 54%, 45%);
